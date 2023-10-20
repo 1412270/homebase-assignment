@@ -53,6 +53,6 @@ Express - A fast, unopinionated, minimalist web framework for Node.js.
 Django - A high-level Python web framework that enables rapid development of secure and maintainable websites.   
 SQLite - A lightweight disk-based database that doesn’t require a separate server process.   
 ## Authors
-Luu Tran Anh Kiet - [Your Website](https://www.linkedin.com/in/kiet-luu-99a289199/)
+Luu Tran Anh Kiet - [My LinkedIn](https://www.linkedin.com/in/kiet-luu-99a289199/)
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
