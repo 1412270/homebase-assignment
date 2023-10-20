@@ -8,7 +8,7 @@ Clone this repository.
 
 ### simple-rest-api      
 Install the required dependencies:    
- - npm install express  sequelize sqlite3 -   
+ - npm install express  sequelize sqlite3
 Run this command to start server:   
  - node .\app.js  
 
