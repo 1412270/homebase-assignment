@@ -6,17 +6,17 @@ To get started with this project, follow these steps:
 
 Clone this repository.  
 
-**simple-rest-api**    
+###simple-rest-api###      
 Install the required dependencies: npm install express  sequelize sqlite3  
 Run this command to start server: node .\app.js  
 
-**webserver**  
+###webserver###    
 Install the required dependencies: pip install -r requirements.txt  
 Make migrations by commnand: python manage.py makemigrations  
 Data migrate by commnand: python manage.py migrate  
 Run this command to start server: python .\manage.py runserver 8080  
 
-**apiproxy**    
+###apiproxy###  
 Install the required dependencies: pip install -r requirements.txt  
 Run this command to start server: python .\proxy.py  
 ## Prerequisites
