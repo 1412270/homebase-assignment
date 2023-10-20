@@ -11,7 +11,7 @@ Install the required dependencies:
  - npm install express  sequelize sqlite3
 
 Run this command to start server:   
- - node .\app.js  
+ - node app.js  
 
 ### webserver      
 Install the required dependencies:   
@@ -21,14 +21,14 @@ Data migration by commnand:
  - python manage.py migrate     
 
 Run this command to start server:    
- - python .\manage.py runserver 8080     
+ - python manage.py runserver 8080     
 
 ### apiproxy    
 Install the required dependencies:  
  - pip install -r requirements.txt  
 
 Run this command to start server:  
- - python .\proxy.py
+ - python proxy.py
 
 ## Prerequisites
 To run this project, you’ll need:
@@ -42,7 +42,7 @@ After started web api server, you can test CRUD operations: localhost:3000/users
 
 ### webserver   
 Create a supper user by command:  
- - python .\manage.py createsuperuser
+ - python manage.py createsuperuser
 
 Test CRUD operations via Django's admin interface: localhost:8080/admin/simpleapp/product/  
 
