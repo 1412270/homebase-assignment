@@ -4,7 +4,7 @@ This take-home assignment is designed to assess skills in backend development, w
 ## Getting Started
 To get started with this project, follow these steps:
 
-Clone this repository.
+Clone this repository.  
 simple-rest-api  
 Install the required dependencies: npm install express  sequelize sqlite3  
 Run this command to start server: node .\app.js  
