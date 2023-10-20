@@ -9,14 +9,18 @@ Clone this repository.
 ### simple-rest-api      
 Install the required dependencies:    
  - npm install express  sequelize sqlite3  
-Run this command to start server:
+Run this command to start server:   
  - node .\app.js  
 
 ### webserver      
-Install the required dependencies: pip install -r requirements.txt  
-Make migrations by commnand: python manage.py makemigrations  
-Data migrate by commnand: python manage.py migrate  
-Run this command to start server: python .\manage.py runserver 8080  
+Install the required dependencies:   
+ - pip install -r requirements.txt  
+Make migrations by commnand:
+ - python manage.py makemigrations  
+Data migrate by commnand:
+ - python manage.py migrate  
+Run this command to start server:
+ - python .\manage.py runserver 8080  
 
 ### apiproxy    
 Install the required dependencies: pip install -r requirements.txt  
