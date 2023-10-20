@@ -40,11 +40,7 @@ Python
 ### simple-rest-api     
 After started web api server, you can test CRUD operations: localhost:3000/users  
 Sample User JSON data:  
-{
-    "username": "Henri",   
-    "email": "henri@example.com",   
-    "password": "12345"   
-}   
+{ "username": "Henri", "email": "henri@example.com", "password": "12345" }      
 
 ### webserver   
 Create a supper user by command:  
