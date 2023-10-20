@@ -1,58 +1,29 @@
-# Project Title
-This project demonstrates how to create a simple REST API using Express and Node.js, and how to create a Django web server with one model, e.g., “Product”, and implement CRUD operations via Django’s admin interface. It also shows how to connect your Express API to a SQLite database using any ORM, store and retrieve “User” data, create a Python script that acts as a proxy, and forward requests from the Python script to the Express API. Finally, it demonstrates how to make the Django web server fetch “User” data from the Express API via the Python proxy.
+# Homebase Assignment
+This take-home assignment is designed to assess skills in backend development, with a focus on technologies such as Node.js, Python, Express, and Django. This repository contains 3 folders corresponding to 3 projects including a Rest API server written by Node and Express, a Web Server written by Django and a Python proxy server
 
 ## Getting Started
 To get started with this project, follow these steps:
 
 Clone this repository.
-Install the required dependencies for both the Express and Django servers.
-Create a SQLite database for the Express API.
-Start the Express server.
-Create a Django app and model.
-Implement CRUD operations via Django’s admin interface.
-Connect your Express API to the SQLite database using any ORM.
-Store and retrieve “User” data.
-Create a Python script that acts as a proxy.
-Forward requests from the Python script to the Express API.
-Make the Django web server fetch “User” data from the Express API via the Python proxy.
+simple-rest-api
+Install the required dependencies: npm install express  sequelize sqlite3
+Run this command to start server: node .\app.js
+webserver
+Install the required dependencies: pip install -r requirements.txt
+Make migrations by commnand: python manage.py makemigrations
+Data migrate by commnand: python manage.py migrate
+Run this command to start server: python .\manage.py runserver 8080
+apiproxy
+Install the required dependencies: pip install -r requirements.txt
+Run this command to start server: python .\proxy.py
 ## Prerequisites
 To run this project, you’ll need:
 
 Node.js
 Python
-SQLite
-Installing
-To install this project, follow these steps:
 
-Clone this repository:
-git clone https://github.com/your-username/your-repo-name.git
+## Usage
 
-## Install the required dependencies for both the Express and Django servers:
-npm install
-pip install -r requirements.txt
-
-Create a SQLite database for the Express API:
-sqlite3 mydatabase.db
-
-Start the Express server:
-npm start
-
-Create a Django app and model:
-python manage.py startapp myapp
-python manage.py makemigrations myapp
-python manage.py migrate
-
-Implement CRUD operations via Django’s admin interface.
-
-Connect your Express API to the SQLite database using any ORM.
-
-Store and retrieve “User” data.
-
-Create a Python script that acts as a proxy.
-
-Forward requests from the Python script to the Express API.
-
-Make the Django web server fetch “User” data from the Express API via the Python proxy.
 
 ## Built With
 Express - A fast, unopinionated, minimalist web framework for Node.js.
