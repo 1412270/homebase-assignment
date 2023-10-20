@@ -55,4 +55,4 @@ SQLite - A lightweight disk-based database that doesn’t require a separate ser
 ## Authors
 Luu Tran Anh Kiet - [My LinkedIn](https://www.linkedin.com/in/kiet-luu-99a289199/)
 ## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the MIT License.  
