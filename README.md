@@ -16,16 +16,23 @@ Run this command to start server:
 ### webserver      
 Install the required dependencies:   
  - pip install -r requirements.txt  
+
 Make migrations by commnand:
  - python manage.py makemigrations  
+
 Data migrate by commnand:
  - python manage.py migrate  
+
 Run this command to start server:
  - python .\manage.py runserver 8080  
 
 ### apiproxy    
-Install the required dependencies: pip install -r requirements.txt  
-Run this command to start server: python .\proxy.py  
+Install the required dependencies:  
+ - pip install -r requirements.txt  
+
+Run this command to start server:  
+ - python .\proxy.py
+
 ## Prerequisites
 To run this project, you’ll need:
 
