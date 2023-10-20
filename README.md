@@ -49,9 +49,9 @@ Test CRUD operations via Django's admin interface: localhost:8080/admin/simpleap
 Fetch "User" data from the Express API via the Python proxy: localhost:8080/simpleapp/users
 
 ## Built With
-Express - A fast, unopinionated, minimalist web framework for Node.js.
-Django - A high-level Python web framework that enables rapid development of secure and maintainable websites.
-SQLite - A lightweight disk-based database that doesn’t require a separate server process.
+Express - A fast, unopinionated, minimalist web framework for Node.js.  
+Django - A high-level Python web framework that enables rapid development of secure and maintainable websites.   
+SQLite - A lightweight disk-based database that doesn’t require a separate server process.   
 ## Authors
 Luu Tran Anh Kiet - [Your Website](https://www.linkedin.com/in/kiet-luu-99a289199/)
 ## License
