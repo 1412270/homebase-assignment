@@ -7,8 +7,10 @@ To get started with this project, follow these steps:
 Clone this repository.  
 
 ### simple-rest-api      
-Install the required dependencies: npm install express  sequelize sqlite3  
-Run this command to start server: node .\app.js  
+Install the required dependencies:  
+ - npm install express  sequelize sqlite3  
+Run this command to start server:
+ - node .\app.js  
 
 ### webserver      
 Install the required dependencies: pip install -r requirements.txt  
