@@ -44,9 +44,11 @@ After started web api server, you can test CRUD operations: localhost:3000/users
 Create a supper user by command:  
  - python manage.py createsuperuser
 
-Test CRUD operations via Django's admin interface: localhost:8080/admin/simpleapp/product/  
+Test CRUD operations via Django's admin interface:  
+ - localhost:8080/admin/simpleapp/product/    
 
-Fetch "User" data from the Express API via the Python proxy: localhost:8080/simpleapp/users
+Fetch "User" data from the Express API via the Python proxy:   
+ - localhost:8080/simpleapp/users    
 
 ## Built With
 Express - A fast, unopinionated, minimalist web framework for Node.js.  
